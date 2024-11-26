@@ -29,3 +29,22 @@
 
 Below is a screenshot of the mutation testing results:
 ![Mutation Testing Results](Images/result.png)
+
+
+### Team Members and Contributions
+
+- **Abhishek Rauthan(MT2023106)**  
+  - **Unit Testing**:  
+    - Arithmetic Operator Replacement (AOR)  
+    - Relational Operator Replacement  
+  - **Integration Testing**:  
+    - Integration Parameter Variable Replacement  
+    - Integration Return Expression Modification  
+
+- **Sankalp Rai (MT2023150)**  
+  - **Unit Testing**:  
+    - Logical Operator Replacement  
+    - Shift Operator Replacement  
+  - **Integration Testing**:  
+    - Integration Method Call Deletion  
+
